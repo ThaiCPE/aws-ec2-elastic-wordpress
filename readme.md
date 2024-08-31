@@ -4,10 +4,9 @@ It could expand to 3 AZs
 ![image](https://github.com/user-attachments/assets/12ffe885-b2c4-417d-9796-1dd2b7bc5235)
 
 # Step:
-1. Choose desired Region
-2. 1 Click Deployment https://ap-southeast-1.console.aws.amazon.com/cloudformation/home?region=ap-southeast-1#/stacks/quickcreate?templateURL=https://learn-cantrill-labs.s3.amazonaws.com/aws-elastic-wordpress-evolution/A4LVPC.yaml&stackName=TCPEVPC
-3. Create RDS https://www.youtube.com/watch?v=wWIFJvxoWb0&t=2310s
-4. 
+1. 1 Click Deployment https://ap-southeast-1.console.aws.amazon.com/cloudformation/home?region=ap-southeast-1#/stacks/quickcreate?templateURL=https://learn-cantrill-labs.s3.amazonaws.com/aws-elastic-wordpress-evolution/A4LVPC.yaml&stackName=TCPEVPC
+2. Create RDS https://www.youtube.com/watch?v=wWIFJvxoWb0&t=2310s
+3. 
 # Parameter Store:
 ![image](https://github.com/user-attachments/assets/d8fe7aa4-ffca-440a-b7f1-09a3a15ac090)
 # EC2 Launch Template
